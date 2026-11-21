@@ -1,0 +1,4 @@
+# Network Topology Mapper (NTM) Local OUI Database
+# Format: HEX_PREFIX,VENDOR_NAME
+# Supports 24-bit (6 hex digits, MA-L), 28-bit (7 hex digits, MA-M), and 36-bit (9 hex digits, MA-S) prefixes.
+
